@@ -1,7 +1,5 @@
 ### 👋 Hi, I’m Eduardo Kamioka
 
-![Profile banner](https://your-image-link.com/banner.png) <!-- Optional banner or avatar -->
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardokamioka/)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ekamioka)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/ekamioka)
